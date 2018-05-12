@@ -401,8 +401,7 @@ function enter() {
 function resultgpa()
 {	
 	var res = enter();	
-	document.write("<center>" + "<h1 style='color:blue'>" + "Your GPA is : "+ res +"</h1>" + "</center>"
-		      + "<div class="text-right">"+"REFRESH THE PAGE"+"</div>" 
+	document.write("<center>" + "<h1 style='color:blue'>" + "Your GPA is : "+ res +"</h1>" + "</center>"		     
 		      );	
 	//document.body.style.backgroundColor = "grey";	
 	//return res;
