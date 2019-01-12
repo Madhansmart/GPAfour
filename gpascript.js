@@ -46,83 +46,83 @@ function enter() {
         if(two == "O" || two == "o" || two == 10)
      {
              two = 10;
-            var mul2 = two * 4;
+            var mul2 = two * 3;
      }
    else if(two == "A+" || two == "a+" || two == 9)
          {
              two = 9;
-             mul2 = two * 4;
+             mul2 = two * 3;
      }
    else if(two == "A" || two == "a" || two == 8)
          {
              two = 8;
-             mul2 = two * 4;
+             mul2 = two * 3;
      }
    else if(two == "B+" || two == "b+" || two == 7)
          {
              two = 7;
-             mul2 = two * 4;
+             mul2 = two * 3;
      }
    else if(two == "B" || two == "b" || two == 6)
          {
              two = 6;
-             mul2 = two * 4;
+             mul2 = two * 3;
      }
    else if(two == "RA" || two == "ra" || two == 0)
          {
              two = 0;
-             mul2 = two * 4;
+             mul2 = two * 3;
      }
    else if(two == "W" || two == "w" || two == 0)
          {
              two = 0;
-             mul2 = two * 4;
+             mul2 = two * 3;
      }
    else if(two == "AB" || two == "ab" || two == 0)
          {
              two = 0;
-            mul2 = two * 4;
+            mul2 = two * 3;
      }
     var three = document.getElementById("jp").value;
      if(three == "O" || three == "o" || three == 10)
      {
              three = 10;
-            var mul3 = three * 3;
+            var mul3 = three * 4;
      }
    else if(three == "A+" || three == "a+" || three == 9)
          {
              three = 9;
-             mul3 = three * 3;
+             mul3 = three * 4;
      }
    else if(three == "A" || three == "a" || three == 8)
          {
              three = 8;
-             mul3 = three * 3;
+             mul3 = three * 4;
      }
    else if(three == "B+" || three == "b+" || three == 7)
          {
              three = 7;
-             mul3 = three * 3;
+             mul3 = three * 4;
      }
    else if(three == "B" || three == "b" || three == 6)
          {
              three = 6;
-            mul3 = three * 3;
+            mul3 = three * 4;
      }
    else if(three == "RA" || three == "ra" || three == 0)
          {
              three = 0;
-             mul3 = three * 3;
+             mul3 = three * 4;
      }
    else if(three == "W" || three == "w" || three == 0)
          {
              three = 0;
-             mul3 = three * 3;
+             mul3 = three * 4;
      }
    else if(three == "AB" || three == "ab" || three == 0)
          {
              three = 0;
-             mul3 = three * 3;
+             mul3 = three * 4;
      }
 
 
@@ -175,42 +175,42 @@ function enter() {
         if(five == "O" || five == "o" || five == 10)
      {
              five = 10;
-            var mul5 = five * 4;
+            var mul5 = five * 3;
      }
    else if(five == "A+" || five == "a+" || five == 9)
          {
              five = 9;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
    else if(five == "A" || five == "a" || five == 8)
          {
              five = 8;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
    else if(five == "B+" || five == "b+" || five == 7)
          {
              five = 7;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
    else if(five == "B" || five == "b" || five == 6)
          {
              five = 6;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
    else if(five == "RA" || five == "ra" || five == 0)
          {             
              five = 0;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
    else if(five == "W" || five == "w" || five == 0)
          {
              five = 0;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
    else if(five == "AB" || five == "ab" ||  five == 0)
          {
              five = 0;
-             mul5 = five * 4;
+             mul5 = five * 3;
      }
 
     var six = document.getElementById("daa").value;
